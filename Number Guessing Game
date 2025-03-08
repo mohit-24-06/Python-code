@@ -4,7 +4,6 @@ from art import logo
 EASY_LEVEL = 10
 HARD_LEVEL = 5
 
-
 def set_difficulty():
     """Set How much Difficult you want your game"""
     print("Choose difficultly. Type 'easy' or 'hard'")
